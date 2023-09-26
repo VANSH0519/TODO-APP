@@ -23,7 +23,7 @@ To get started with this Todo List application, follow these steps:
 
 1. Clone the repository to your local machine:
    
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/VANSH0519/TODO-APP
    
 
 2. Open the project folder in your code editor.
